@@ -14,3 +14,11 @@
 [submodule "standard/etsi/SOL006"]
 	path = standard/etsi/SOL006
 	url = https://github.com/etsi-forge/nfv-sol006
+[submodule "standard/etsi/SOL006-v2.6.1_tag"]
+	path = standard/etsi/SOL006
+	url = https://github.com/etsi-forge/nfv-sol006
+	tag = v2.6.1
+[submodule "standard/etsi/SOL006-v2.7.1_branch"]
+	path = standard/etsi/SOL006
+	url = https://github.com/etsi-forge/nfv-sol006
+	branch = v2.7.1
